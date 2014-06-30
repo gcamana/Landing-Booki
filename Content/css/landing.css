@@ -1,0 +1,97 @@
+#land1 {
+    background-image: url("../../../Content/images/deg3.png"), url("../../../Content/images/backgirl.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #FFF;
+    min-height: 710px;
+    margin-top: -50px;
+    padding-top: 50px;
+    text-align: center;
+}
+#land1 #queesbooki{
+    padding-top: 50px;
+    color: #FFF;
+}
+#formSuscribete input[type="email"]{
+    border: 2px solid #1BBC9B;
+}
+#btnsuccess{
+    background-color: #1BBC9B;
+    color: #FFF;
+    border: 2px solid #1BBC9B;
+}
+/*yo*/
+.icon-size{
+    font-size: -webkit-xxx-large;
+    text-align: center;
+    margin:  35px  0 25px  0;
+    color: #413f3d;
+}
+#land3{
+    background-color: #1BBC9B;
+    color: #FFF;
+    padding:  35px  0 25px  0;
+}
+.contact-icon{
+    color: #1BBC9B;
+    font-size: x-large;
+}
+.content-text{
+   padding-right: 10px;
+}
+#land1 .form-control{
+    font-size: 18px;
+}
+#landfloat{
+    background-color: #1BBC9B;
+}
+.whois{
+    text-align: center;
+    padding: 35px  0 45px  0;
+    color: #fff;
+}
+#texttitle{
+    color: #FFF;
+    text-align: center;
+}
+#textwho{
+    color: #fff;
+    text-align: justify;
+    padding: 0 45px 0 35px;
+}
+#landshare{
+    background-image: url("../../../Content/images/deg3.png"), url("../../../Content/images/girlshare.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 250px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+}
+#share-buttons{
+    padding-top: 35px;
+}
+.contact-col{
+    text-align: center;
+    padding: 10px;
+}
+.footerbooki{
+    background-color: black;
+    color: gray;
+    font-size: 10px;
+    height: 35px;
+    padding: 10px;
+    text-align: center;
+}
+h2, .h2 {
+font-size: 45px !important;
+}
+#logobooki{
+    width: 214px;
+    height: 194px;
+}
+#suscribete{
+    font-size: 24px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
